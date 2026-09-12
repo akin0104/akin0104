@@ -54,7 +54,7 @@ The projects below are organized as connected build programs rather than unrelat
 
 | Repository / stage | What it demonstrates | Track | Status |
 | --- | --- | --- | --- |
-| [`opsflow`](https://github.com/akin0104/opsflow) | Live workflow workspace with typed lead/task model, process map, and acceptance criteria | Business analysis + systems analysis | ✅ Implemented |
+| [`opsflow`](https://github.com/akin0104/opsflow) · [live demo](https://3000-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/) | Live workflow workspace with typed lead/task model, process map, and acceptance criteria | Business analysis + systems analysis | ✅ Live demo |
 | [`opsflow`](https://github.com/akin0104/opsflow) | Follow-up, round-robin, proposal SLA, and won-handoff rules with a rule simulator | Automation | ✅ Implemented |
 | [`opsflow`](https://github.com/akin0104/opsflow) | Pipeline, response time, task aging, funnel, and activity rhythm views | Operations analytics | ✅ Implemented |
 | [`opsflow`](https://github.com/akin0104/opsflow) | Webhook, mock email, calendar, and CRM integration contracts | Integration engineering | ✅ Implemented |
