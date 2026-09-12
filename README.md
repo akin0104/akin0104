@@ -105,11 +105,11 @@ The projects below are organized as connected build programs rather than unrelat
 
 | Repository / stage | What it demonstrates | Track | Status |
 | --- | --- | --- | --- |
-| `growthlab-site` | Accessible marketing site and conversion journey | Web development | 🗺️ Planned |
-| `growthlab-events` | Privacy-aware event taxonomy and tracking simulator | Analytics implementation | 🗺️ Planned |
-| `growthlab-funnel` | SQL funnel, cohort, campaign, and drop-off analysis | Data analytics | 🗺️ Planned |
-| `growthlab-experiments` | Hypotheses, primary metrics, guardrails, and experiment interpretation | Experimentation | 🗺️ Planned |
-| `growthlab-dashboard` | Acquisition, engagement, funnel, and campaign reporting | Digital intelligence | 🗺️ Planned |
+| [`growthlab`](https://github.com/akin0104/growthlab) · [live demo](https://4175-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/) | Accessible marketing site and conversion journey | Web development | ✅ Live demo |
+| [`growthlab`](https://github.com/akin0104/growthlab) | Privacy-aware event taxonomy and tracking simulator | Analytics implementation | ✅ Implemented |
+| [`growthlab`](https://github.com/akin0104/growthlab) | Funnel, cohort, channel-efficiency, and drop-off analysis | Data analytics | ✅ Implemented |
+| [`growthlab`](https://github.com/akin0104/growthlab) | Hypotheses, primary metrics, guardrails, and experiment interpretation | Experimentation | ✅ Implemented |
+| [`growthlab`](https://github.com/akin0104/growthlab) | Acquisition, engagement, funnel, and campaign reporting | Digital intelligence | ✅ Implemented |
 
 **Business question:** Which digital activities create qualified interest, where do users drop off, and what should a team test next?
 
