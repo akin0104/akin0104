@@ -23,8 +23,11 @@
 
 <a href="https://github.com/akin0104"><img width="100%" src="https://streak-stats.demolab.com/?user=akin0104&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub contribution streak" /></a>
 
-<a href="https://github.com/akin0104"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akin0104&theme=github_dark" alt="GitHub statistics" /></a>
-<a href="https://github.com/akin0104"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akin0104&theme=github_dark" alt="Most used languages" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akin0104/akin0104/main/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akin0104/akin0104/main/stats-light.svg">
+  <img src="https://raw.githubusercontent.com/akin0104/akin0104/main/stats-light.svg" alt="GitHub statistics and top languages" width="100%">
+</picture>
 
 </div>
 
