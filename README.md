@@ -50,15 +50,14 @@ The projects below are organized as connected build programs rather than unrelat
 
 ## 02 · OpsFlow — Business Process and CRM Automation
 
-**OpsFlow** is a business-systems project for managing leads, activities, follow-ups, owners, tasks, and operational visibility. It turns my experience with prospect research, outreach, client coordination, CRM tracking, and process improvement into a technical workflow product.
+**OpsFlow** is a business-systems product for managing leads, activities, follow-ups, owners, tasks, and operational visibility. It turns my experience with prospect research, outreach, client coordination, CRM tracking, and process improvement into a technical workflow product.
 
 | Repository / stage | What it demonstrates | Track | Status |
 | --- | --- | --- | --- |
-| `opsflow-process-model` | As-is / to-be maps, personas, requirements, and acceptance criteria | Business analysis | 🗺️ Planned |
-| `opsflow-core` | Lead, contact, task, owner, status, and activity domain model | Systems analysis | 🗺️ Planned |
-| `opsflow-automation` | Follow-up reminders, assignment rules, status triggers, and audit history | Automation | 🗺️ Planned |
-| `opsflow-dashboard` | Pipeline, response time, task aging, and conversion views | Operations analytics | 🗺️ Planned |
-| `opsflow-integrations` | Webhooks and mock email/calendar/CRM boundaries | Integration engineering | 🗺️ Planned |
+| [`opsflow`](https://github.com/akin0104/opsflow) | Live workflow workspace with typed lead/task model, process map, and acceptance criteria | Business analysis + systems analysis | ✅ Implemented |
+| [`opsflow`](https://github.com/akin0104/opsflow) | Follow-up, round-robin, proposal SLA, and won-handoff rules with a rule simulator | Automation | ✅ Implemented |
+| [`opsflow`](https://github.com/akin0104/opsflow) | Pipeline, response time, task aging, funnel, and activity rhythm views | Operations analytics | ✅ Implemented |
+| [`opsflow`](https://github.com/akin0104/opsflow) | Webhook, mock email, calendar, and CRM integration contracts | Integration engineering | ✅ Implemented |
 
 **Business question:** How can a small team reduce manual follow-up work while making ownership and pipeline health visible?
 
