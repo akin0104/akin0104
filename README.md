@@ -23,8 +23,8 @@
 
 <a href="https://github.com/akin0104"><img width="100%" src="https://streak-stats.demolab.com/?user=akin0104&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub contribution streak" /></a>
 
-<a href="https://github.com/akin0104"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=akin0104&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub statistics" /></a>
-<a href="https://github.com/akin0104"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akin0104&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="Most used languages" /></a>
+<a href="https://github.com/akin0104"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akin0104&theme=github_dark" alt="GitHub statistics" /></a>
+<a href="https://github.com/akin0104"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akin0104&theme=github_dark" alt="Most used languages" /></a>
 
 </div>
 
