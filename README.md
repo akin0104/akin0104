@@ -30,7 +30,7 @@
 
 <br>
 
-## `whoami`
+## `profile.summary`
 
 I work at the intersection of **business operations, analysis, automation, data, and software delivery**. I turn an ambiguous business need into a clear process, a trustworthy KPI, a useful dashboard, or a working product.
 
@@ -38,88 +38,19 @@ My build philosophy is simple: **start with the business question, define the sy
 
 I am also a co-founder of **[ENVEI](https://envei.ca/)**, a workforce-measurement platform focused on understanding how skills, education, and labour-market needs align.
 
-## `featured.work`
+## `projects.list`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### [InsightHub](https://github.com/akin0104/insighthub)
-**Client-Operations Decision Intelligence**
+<img src="https://raw.githubusercontent.com/akin0104/akin0104/main/projects.svg" alt="Projects list: InsightHub, OpsFlow, AlignIQ, TrustDesk, GrowthLab, and operating principles" width="100%">
 
-Governed analytics for pipeline movement, delivery risk, process signals, KPI definitions, and evidence-based recommendations.
+</div>
 
-`SQL` `KPI governance` `Analytics` `Dashboards`
+<div align="center">
 
-[**Live demo ↗**](https://insighthub-ejlhm26s.manus.space)
+[InsightHub](https://github.com/akin0104/insighthub) · [OpsFlow](https://github.com/akin0104/opsflow) · [AlignIQ](https://github.com/akin0104/aligniq) · [TrustDesk](https://github.com/akin0104/trustdesk) · [GrowthLab](https://github.com/akin0104/growthlab)
 
-</td>
-<td width="50%" valign="top">
-
-### [OpsFlow](https://github.com/akin0104/opsflow)
-**Business Process and CRM Automation**
-
-Workflow infrastructure for leads, owners, follow-ups, SLA triggers, audit history, and operational visibility.
-
-`Workflows` `CRM` `Automation` `Integrations`
-
-[**Live demo ↗**](https://3000-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [AlignIQ](https://github.com/akin0104/aligniq)
-**Workforce and Skills Intelligence**
-
-Explainable skill-to-occupation alignment with evidence traceability, score breakdowns, and confidence bands.
-
-`Scoring` `Taxonomy` `Evidence` `Responsible analytics`
-
-[**Live demo ↗**](https://4173-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
-
-</td>
-<td width="50%" valign="top">
-
-### [TrustDesk](https://github.com/akin0104/trustdesk)
-**Responsible AI Knowledge Assistant**
-
-Source-first retrieval with citations, no-match behavior, refusal boundaries, and evaluation signals.
-
-`Retrieval` `Citations` `Guardrails` `Evaluation`
-
-[**Live demo ↗**](https://4174-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [GrowthLab](https://github.com/akin0104/growthlab)
-**Digital Strategy and Conversion Intelligence**
-
-Privacy-aware events, funnel and cohort analytics, channel efficiency, and experiment guardrails.
-
-`Events` `Funnels` `Cohorts` `Experimentation`
-
-[**Live demo ↗**](https://4175-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
-
-</td>
-<td width="50%" valign="top">
-
-### `operating.principles`
-**Make the work visible**
-
-Business question → process → data contract → signal → decision.
-
-`Clarity` `Traceability` `Measurement` `Delivery`
-
-[**Read the portfolio ↗**](https://bimbola-coker-pro.lovable.app/)
-
-</td>
-</tr>
-</table>
+</div>
 
 ## `toolchain`
 
