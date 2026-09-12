@@ -71,11 +71,11 @@ The projects below are organized as connected build programs rather than unrelat
 
 | Repository / stage | What it demonstrates | Track | Status |
 | --- | --- | --- | --- |
-| `aligniq-core` | Versioned score, evidence model, confidence bands, and tests | Data product foundation | 🗺️ Planned |
-| `aligniq-taxonomy` | Occupations, skills, tasks, tools, and evidence types | Data modeling | 🗺️ Planned |
-| `aligniq-api` | Profile, evidence, occupation, and report endpoints | Backend engineering | 🗺️ Planned |
-| `aligniq-web` | Accessible report builder and explanation interface | Product engineering | 🗺️ Planned |
-| `aligniq-evaluation` | Reproducibility fixtures, edge cases, limitations, and bias checks | Responsible analytics | 🗺️ Planned |
+| [`aligniq`](https://github.com/akin0104/aligniq) · [live demo](https://4173-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/) | Versioned score, evidence model, confidence bands, and tests | Data product foundation | ✅ Live demo |
+| [`aligniq`](https://github.com/akin0104/aligniq) | Occupations, skills, critical-skill taxonomy, and evidence types | Data modeling | ✅ Implemented |
+| [`aligniq`](https://github.com/akin0104/aligniq) | Profile, evidence, occupation, and explainable report model | Backend / model engineering | ✅ Implemented |
+| [`aligniq`](https://github.com/akin0104/aligniq) | Accessible report builder and evidence explanation interface | Product engineering | ✅ Implemented |
+| [`aligniq`](https://github.com/akin0104/aligniq) | Reproducibility fixtures, edge cases, limitations, and synthetic-data disclosure | Responsible analytics | ✅ Implemented |
 
 **Business question:** How can organizations make skills and curriculum alignment easier to understand without hiding assumptions behind an opaque score?
 
