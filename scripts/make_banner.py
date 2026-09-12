@@ -5,26 +5,26 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def icon_scenes(stroke: str, accent: str, muted: str) -> str:
     # SMIL opacity transitions intentionally keep the same terminal frame while the visual map cycles.
-    timeline = '0;0.08;0.22;0.30;0.44;0.52;0.66;0.74;0.88;0.96;1'
+    timeline = '0;0.06;0.18;0.24;0.30;0.36;0.48;0.54;0.60;0.66;1'
     key = '0;1;1;0;0;1;1;0;0;1;1'
     return f'''<g transform="translate(78 154)">
-      <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="{key}" keyTimes="{timeline}"/>
+      <g opacity="0"><animate attributeName="opacity" dur="24s" repeatCount="indefinite" values="{key}" keyTimes="{timeline}" calcMode="linear"/>
         <path d="M88 112 48 164l40 52M212 112l40 52-40 52" fill="none" stroke="{stroke}" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
         <path d="m142 92-42 144" stroke="{accent}" stroke-width="10" stroke-linecap="round"/>
         <circle cx="150" cy="64" r="7" fill="{accent}"/><text x="150" y="302" text-anchor="middle" fill="{muted}" font-family="monospace" font-size="15" letter-spacing="3">MARKUP / 01</text>
       </g>
-      <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;1;1;0;0;0;0;0;0;0" keyTimes="{timeline}"/>
+      <g opacity="0"><animate attributeName="opacity" dur="24s" repeatCount="indefinite" values="0;0;1;1;0;0;0;0;0;0;0" keyTimes="{timeline}" calcMode="linear"/>
         <path d="M116 82 72 118l44 36M184 82l44 36-44 36" fill="none" stroke="{stroke}" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
         <path d="M146 68 124 170" stroke="{accent}" stroke-width="10" stroke-linecap="round"/>
         <path d="M82 218h160" stroke="{muted}" stroke-width="2" stroke-dasharray="3 10"/><text x="162" y="302" text-anchor="middle" fill="{muted}" font-family="monospace" font-size="15" letter-spacing="3">TYPESCRIPT / 02</text>
       </g>
-      <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;0;0;1;1;0;0;0;0;0" keyTimes="{timeline}"/>
+      <g opacity="0"><animate attributeName="opacity" dur="24s" repeatCount="indefinite" values="0;0;0;0;1;1;0;0;0;0;0" keyTimes="{timeline}" calcMode="linear"/>
         <ellipse cx="150" cy="92" rx="76" ry="22" fill="none" stroke="{stroke}" stroke-width="10"/><path d="M74 92v95c0 18 34 33 76 33s76-15 76-33V92M74 140c0 18 34 33 76 33s76-15 76-33" fill="none" stroke="{stroke}" stroke-width="10"/><circle cx="102" cy="245" r="7" fill="{accent}"/><circle cx="130" cy="245" r="7" fill="{accent}" opacity=".7"/><circle cx="158" cy="245" r="7" fill="{accent}" opacity=".45"/><text x="150" y="302" text-anchor="middle" fill="{muted}" font-family="monospace" font-size="15" letter-spacing="3">SQL / 03</text>
       </g>
-      <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;0;0;0;0;1;1;0;0;0" keyTimes="{timeline}"/>
+      <g opacity="0"><animate attributeName="opacity" dur="24s" repeatCount="indefinite" values="0;0;0;0;0;0;1;1;0;0;0" keyTimes="{timeline}" calcMode="linear"/>
         <path d="M68 206V130M68 206h184" stroke="{muted}" stroke-width="7" stroke-linecap="round"/><path d="m82 182 42-44 37 22 62-72" fill="none" stroke="{stroke}" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><circle cx="82" cy="182" r="8" fill="{accent}"/><circle cx="124" cy="138" r="8" fill="{accent}"/><circle cx="161" cy="160" r="8" fill="{accent}"/><circle cx="223" cy="88" r="8" fill="{accent}"/><text x="150" y="302" text-anchor="middle" fill="{muted}" font-family="monospace" font-size="15" letter-spacing="3">SIGNAL / 04</text>
       </g>
-      <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;1;1;0" keyTimes="{timeline}"/>
+      <g opacity="0"><animate attributeName="opacity" dur="24s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;1;1;0" keyTimes="{timeline}" calcMode="linear"/>
         <circle cx="150" cy="148" r="72" fill="none" stroke="{stroke}" stroke-width="10" stroke-dasharray="12 13"/><circle cx="150" cy="148" r="38" fill="none" stroke="{accent}" stroke-width="10"/><path d="M150 80v68l44 27" stroke="{accent}" stroke-width="10" stroke-linecap="round"/><text x="150" y="302" text-anchor="middle" fill="{muted}" font-family="monospace" font-size="15" letter-spacing="3">SYSTEM / 05</text>
       </g>
     </g>'''
