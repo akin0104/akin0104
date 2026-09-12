@@ -57,7 +57,7 @@ def banner(dark: bool) -> str:
 <text x="458" y="280" fill="{muted}" font-family="monospace" font-size="14">FOCUS</text><text x="1082" y="280" fill="{text}" text-anchor="end" font-family="monospace" font-size="14">WORKFLOWS · KPIs · PRODUCTS</text><path d="M458 292h624" stroke="{border}" stroke-dasharray="2 8"/>
 <text x="458" y="330" fill="{muted}" font-family="monospace" font-size="14">STACK</text><text x="1082" y="330" fill="{text}" text-anchor="end" font-family="monospace" font-size="14">SQL · TYPESCRIPT · REACT</text><path d="M458 342h624" stroke="{border}" stroke-dasharray="2 8"/>
 <text x="458" y="380" fill="{muted}" font-family="monospace" font-size="14">STATUS</text><rect x="976" y="358" width="106" height="32" rx="16" fill="{accent}" fill-opacity=".18" stroke="{accent}" stroke-opacity=".45"/><circle cx="994" cy="374" r="5" fill="{accent}"/><text x="1008" y="379" fill="{accent}" font-family="monospace" font-size="12">BUILDING</text><path d="M458 402h624" stroke="{border}" stroke-dasharray="2 8"/>
-<text x="458" y="444" fill="{chrome}" font-family="monospace" font-size="13">$ whoami</text><text x="458" y="476" fill="{text}" font-family="monospace" font-size="18">I make the work visible.</text><text x="458" y="510" fill="{muted}" font-family="monospace" font-size="13">business question → system → signal → decision</text>
+<text x="458" y="444" fill="{chrome}" font-family="monospace" font-size="13">$ profile --summary</text><text x="458" y="476" fill="{text}" font-family="monospace" font-size="18">I make the work visible.</text><text x="458" y="510" fill="{muted}" font-family="monospace" font-size="13">business question → system → signal → decision</text>
 </svg>'''
 
 (ROOT / "dark.svg").write_text(banner(True), encoding="utf-8")
