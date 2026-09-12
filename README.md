@@ -89,11 +89,11 @@ The projects below are organized as connected build programs rather than unrelat
 
 | Repository / stage | What it demonstrates | Track | Status |
 | --- | --- | --- | --- |
-| `trustdesk-corpus` | Versioned synthetic documents and metadata | Data foundation | 🗺️ Planned |
-| `trustdesk-retrieval` | Keyword and semantic retrieval comparison | AI application | 🗺️ Planned |
-| `trustdesk-evaluation` | Retrieval hit rate, citation coverage, groundedness, and refusal tests | AI evaluation | 🗺️ Planned |
-| `trustdesk-guardrails` | Input limits, PII-aware handling, and prompt-injection test cases | Responsible AI | 🗺️ Planned |
-| `trustdesk-web` | Source-inspection interface with feedback controls | Product UX | 🗺️ Planned |
+| [`trustdesk`](https://github.com/akin0104/trustdesk) · [live demo](https://4174-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/) | Versioned synthetic documents and metadata | Data foundation | ✅ Live demo |
+| [`trustdesk`](https://github.com/akin0104/trustdesk) | Keyword retrieval with grounded answer and citation states | AI application | ✅ Implemented |
+| [`trustdesk`](https://github.com/akin0104/trustdesk) | Retrieval hit rate, citation coverage, groundedness, and refusal tests | AI evaluation | ✅ Implemented |
+| [`trustdesk`](https://github.com/akin0104/trustdesk) | Input limits, PII-aware handling, and prompt-injection test cases | Responsible AI | ✅ Implemented |
+| [`trustdesk`](https://github.com/akin0104/trustdesk) | Source-inspection interface with feedback-ready answer states | Product UX | ✅ Implemented |
 
 **Business question:** How can teams get useful answers from internal knowledge without losing the ability to inspect the evidence behind each answer?
 
