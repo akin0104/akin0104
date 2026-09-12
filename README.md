@@ -1,90 +1,162 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/194954940?v=4" width="112" height="112" alt="Bimbola Coker" style="border-radius:50%;" />
-
-# Bimbola Coker
-
-### Business operations × data × systems
-
-**Business Analyst · Business Systems Analyst · Operations Analytics · Automation · Junior Software Engineering**
-
-I turn ambiguous business problems into measurable workflows, decision-ready insights, and accessible digital products.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://bimbola-coker-pro.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimbola-coker/)
-[![ENVEI](https://img.shields.io/badge/ENVEI-334155?style=flat-square)](https://envei.ca/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akin0104/akin0104/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akin0104/akin0104/main/light.svg">
+  <img src="https://raw.githubusercontent.com/akin0104/akin0104/main/light.svg" alt="Bimbola Coker profile banner" width="100%">
+</picture>
 
 </div>
 
----
+<div align="center">
 
-## The short version
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bimbola-coker-pro.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimbola-coker/)
+[![ENVEI](https://img.shields.io/badge/ENVEI-334155?style=for-the-badge)](https://envei.ca/)
+[![Open to work](https://img.shields.io/badge/Status-Building%20%2B%20Shipping-10b981?style=for-the-badge)](https://github.com/akin0104)
 
-I sit between **business context and technical execution**. I clarify the problem, map the process, define the KPI, structure the data, build the workflow or interface, and explain the result to the people who need to act on it.
+</div>
 
-My work is grounded in client research, prospecting, outreach, CRM and lead tracking, stakeholder communication, project coordination, vendor coordination, event operations, process improvement, digital strategy, analytics, and responsive web development. I am also a co-founder of **ENVEI**, a workforce-measurement platform focused on the relationship between skills, education, and labour-market needs.
+<br>
 
-> **Build philosophy:** start with the business question, make the data trustworthy, ship the smallest useful product, measure the result, and document the trade-offs.
+<div align="center">
 
----
+<a href="https://github.com/akin0104"><img width="100%" src="https://streak-stats.demolab.com/?user=akin0104&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub contribution streak" /></a>
 
-## Selected work
+<a href="https://github.com/akin0104"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=akin0104&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub statistics" /></a>
+<a href="https://github.com/akin0104"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akin0104&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="Most used languages" /></a>
 
-### [01 · InsightHub](https://github.com/akin0104/insighthub) — Client-Operations Decision Intelligence
+</div>
 
-A governed analytics dashboard for pipeline movement, delivery risk, process signals, KPI definitions, and evidence-based recommendations.
+<br>
 
-`SQL` `Relational modeling` `KPI governance` `Analytics procedures` `Dashboard storytelling`
+## `whoami`
 
-[**View live demo →**](https://insighthub-ejlhm26s.manus.space)
+I work at the intersection of **business operations, analysis, automation, data, and software delivery**. I turn an ambiguous business need into a clear process, a trustworthy KPI, a useful dashboard, or a working product.
 
-### [02 · OpsFlow](https://github.com/akin0104/opsflow) — Business Process and CRM Automation
+My build philosophy is simple: **start with the business question, define the system, make the data trustworthy, ship the smallest useful product, and document the trade-offs.**
 
-A workflow product for leads, owners, activities, follow-ups, tasks, assignment rules, audit history, and operational visibility.
+I am also a co-founder of **[ENVEI](https://envei.ca/)**, a workforce-measurement platform focused on understanding how skills, education, and labour-market needs align.
 
-`Process mapping` `Workflow rules` `SLA triggers` `Event logs` `Integration contracts`
+## `featured.work`
 
-[**View live demo →**](https://3000-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [03 · AlignIQ](https://github.com/akin0104/aligniq) — Workforce and Skills Intelligence
+### [InsightHub](https://github.com/akin0104/insighthub)
+**Client-Operations Decision Intelligence**
 
-An explainable alignment prototype mapping structured skills and synthetic evidence to target occupations with score breakdowns, confidence bands, and traceability.
+Governed analytics for pipeline movement, delivery risk, process signals, KPI definitions, and evidence-based recommendations.
 
-`Transparent scoring` `Evidence modeling` `Taxonomy design` `Accessible reporting` `Responsible analytics`
+`SQL` `KPI governance` `Analytics` `Dashboards`
 
-[**View live demo →**](https://4173-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
+[**Live demo ↗**](https://insighthub-ejlhm26s.manus.space)
 
-### [04 · TrustDesk](https://github.com/akin0104/trustdesk) — Responsible AI Knowledge Assistant
+</td>
+<td width="50%" valign="top">
 
-A citation-grounded knowledge workspace that retrieves from approved sources, shows citations, refuses unsafe requests, and exposes evaluation signals.
+### [OpsFlow](https://github.com/akin0104/opsflow)
+**Business Process and CRM Automation**
 
-`Source-first retrieval` `Citation coverage` `No-match behavior` `Prompt-injection boundaries` `AI evaluation`
+Workflow infrastructure for leads, owners, follow-ups, SLA triggers, audit history, and operational visibility.
 
-[**View live demo →**](https://4174-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
+`Workflows` `CRM` `Automation` `Integrations`
 
-### [05 · GrowthLab](https://github.com/akin0104/growthlab) — Digital Strategy and Conversion Intelligence
+[**Live demo ↗**](https://3000-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
 
-An infrastructure-level digital intelligence product connecting event contracts, funnel analysis, cohort retention, channel efficiency, and experiment decisions.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Privacy-aware events` `Funnel analysis` `Cohorts` `Campaign reporting` `Experiment guardrails`
+### [AlignIQ](https://github.com/akin0104/aligniq)
+**Workforce and Skills Intelligence**
 
-[**View live demo →**](https://4175-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
+Explainable skill-to-occupation alignment with evidence traceability, score breakdowns, and confidence bands.
 
----
+`Scoring` `Taxonomy` `Evidence` `Responsible analytics`
 
-## What I work with
+[**Live demo ↗**](https://4173-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
 
-| Business and systems | Data and product | Responsible delivery |
-| --- | --- | --- |
-| Requirements discovery | SQL and relational modeling | Accessibility |
-| Process mapping | KPI definitions and governance | Tests and documentation |
-| CRM and workflow design | Funnel and cohort analysis | Privacy boundaries |
-| Stakeholder communication | React, TypeScript, Express | Evidence traceability |
-| Automation and integrations | tRPC, Drizzle, MySQL, Recharts | Refusal and evaluation patterns |
+</td>
+<td width="50%" valign="top">
 
----
+### [TrustDesk](https://github.com/akin0104/trustdesk)
+**Responsible AI Knowledge Assistant**
 
-## Current direction
+Source-first retrieval with citations, no-match behavior, refusal boundaries, and evaluation signals.
+
+`Retrieval` `Citations` `Guardrails` `Evaluation`
+
+[**Live demo ↗**](https://4174-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [GrowthLab](https://github.com/akin0104/growthlab)
+**Digital Strategy and Conversion Intelligence**
+
+Privacy-aware events, funnel and cohort analytics, channel efficiency, and experiment guardrails.
+
+`Events` `Funnels` `Cohorts` `Experimentation`
+
+[**Live demo ↗**](https://4175-iff267yqkjgl8f8rruu49-fac86b66.us4.manus.computer/)
+
+</td>
+<td width="50%" valign="top">
+
+### `operating.principles`
+**Make the work visible**
+
+Business question → process → data contract → signal → decision.
+
+`Clarity` `Traceability` `Measurement` `Delivery`
+
+[**Read the portfolio ↗**](https://bimbola-coker-pro.lovable.app/)
+
+</td>
+</tr>
+</table>
+
+## `toolchain`
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-0A101F?style=flat-square&logo=postgresql&logoColor=22D3EE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A101F?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-0A101F?style=flat-square&logo=express&logoColor=F8FAFC)
+![tRPC](https://img.shields.io/badge/tRPC-0A101F?style=flat-square&logo=trpc&logoColor=398CCB)
+![Drizzle](https://img.shields.io/badge/Drizzle-0A101F?style=flat-square&logo=drizzle&logoColor=C5F74F)
+![MySQL](https://img.shields.io/badge/MySQL-0A101F?style=flat-square&logo=mysql&logoColor=4479A1)
+![Recharts](https://img.shields.io/badge/Recharts-0A101F?style=flat-square&logo=react&logoColor=61DAFB)
+![Vitest](https://img.shields.io/badge/Vitest-0A101F?style=flat-square&logo=vitest&logoColor=6E9F18)
+
+</div>
+
+| Capability | Evidence in the portfolio |
+| --- | --- |
+| Business analysis | Requirements, process maps, user stories, acceptance criteria, KPI definitions |
+| Data and analytics | SQL models, funnels, cohorts, dashboards, data-quality checks, decision narratives |
+| Automation and systems | CRM workflows, assignment rules, follow-up logic, webhooks, audit trails |
+| Responsible delivery | Accessibility, tests, documentation, privacy boundaries, source traceability |
+
+## `contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akin0104/akin0104/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akin0104/akin0104/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/akin0104/akin0104/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+## `current.focus`
 
 ```yaml
 building:
@@ -101,12 +173,12 @@ open_to:
   - product operations and junior software engineering work
 ```
 
-## Connect
-
-[**Portfolio**](https://bimbola-coker-pro.lovable.app/) · [**LinkedIn**](https://www.linkedin.com/in/bimbola-coker/) · [**ENVEI**](https://envei.ca/) · [**GitHub**](https://github.com/akin0104)
-
 <div align="center">
 
-### I build systems that help teams understand the work, improve the process, and make better decisions.
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bimbola-coker-pro.lovable.app/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimbola-coker/)&nbsp;&nbsp;
+[![ENVEI](https://img.shields.io/badge/ENVEI-334155?style=for-the-badge)](https://envei.ca/)
+
+**I build systems that help teams understand the work, improve the process, and make better decisions.**
 
 </div>
